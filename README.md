@@ -12,6 +12,10 @@ The project uses a trained ANN model with \*\*248 input features\*\* and provide
 
 \---
 
+## 🖥️ Application Screenshot
+
+![Hotel Booking Cancellation Prediction](hotel-booking-prediction.png)
+
 
 
 \## 📌 Project Overview
